@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Data Analyst
+# 👋 Hi there! I'm Hassan
 
 I am a data analyst with **1 year of hands-on experience** in extracting, cleaning, analyzing, and visualizing data to drive informed business decisions. I specialize in leveraging data tools and techniques to uncover trends, identify patterns, and provide actionable insights.
 
